@@ -1,0 +1,20 @@
+[
+  {
+    "question": "What is your name?",
+    "type": "text"
+  },
+  {
+    "question": "What is your favorite color?",
+    "type": "radio",
+    "options": ["Red", "Green", "Blue"]
+  },
+  {
+    "question": "What is your favorite animal?",
+    "type": "radio",
+    "options": ["Dog", "Cat", "Bird", "Fish"]
+  },
+  {
+    "question": "What is your favorite food?",
+    "type": "text"
+  }
+]

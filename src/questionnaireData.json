@@ -1,0 +1,224 @@
+[
+  {
+    "question": "Which of the following is used in React.js to pass a value from a parent component to a child component?",
+    "type": "radio",
+    "options": [
+      {
+        "id": 0,
+        "answer": "State"
+      },
+      {
+        "id": 1,
+        "answer": "Props"
+      },
+      {
+        "id": 2,
+        "answer": "Context"
+      },
+      {
+        "id": 3,
+        "answer": "Refs"
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following lifecycle methods is called before the component is removed from the DOM?",
+    "type": "radio",
+    "options": [
+      {
+        "id": 0,
+        "answer": "componentWillUnmount()"
+      },
+      {
+        "id": 1,
+        "answer": "componentDidMount()"
+      },
+      {
+        "id": 2,
+        "answer": "componentWillMount()"
+      },
+      {
+        "id": 3,
+        "answer": "componentDidUpdate()"
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the most efficient way of updating the UI in React.js?",
+    "options": [
+      {
+        "id": 0,
+        "answer": "Manually setting state"
+      },
+      {
+        "id": 1,
+        "answer": "Using the setState() method"
+      },
+      {
+        "id": 2,
+        "answer": "Using the forceUpdate() method"
+      },
+      {
+        "id": 3,
+        "answer": "Using the render() method"
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the purpose of the React.js componentDidMount() lifecycle method?",
+    "options": [
+      {
+        "id": 0,
+        "answer": "To initialize the component"
+      },
+      {
+        "id": 1,
+        "answer": "To update the component when props or state change"
+      },
+      {
+        "id": 2,
+        "answer": "To remove the component from the DOM"
+      },
+      {
+        "id": 3,
+        "answer": "To render the component to the DOM"
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following methods is called each time the component props or state is updated?",
+    "options": [
+      {
+        "id": 0,
+        "answer": "componentWillUnmount()"
+      },
+      {
+        "id": 1,
+        "answer": "componentWillMount()"
+      },
+      {
+        "id": 2,
+        "answer": "componentDidUpdate()"
+      },
+      {
+        "id": 3,
+        "answer": "componentDidMount()"
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "question": "React.js uses ________ to increase the performance of an application?",
+    "options": [
+      {
+        "id": 0,
+        "answer": "Virtual DOM"
+      },
+      {
+        "id": 1,
+        "answer": "Real DOM"
+      },
+      {
+        "id": 2,
+        "answer": "Shadow DOM"
+      },
+      {
+        "id": 3,
+        "answer": "None of the above"
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is true about React.js?",
+    "options": [
+      {
+        "id": 0,
+        "answer": "It is a library for building user interfaces"
+      },
+      {
+        "id": 1,
+        "answer": "It is a framework for building web applications"
+      },
+      {
+        "id": 2,
+        "answer": "It is a language for writing web applications"
+      },
+      {
+        "id": 3,
+        "answer": "It is a database for storing web application data"
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is used in React.js to pass data from a child component to a parent component?",
+    "options": [
+      {
+        "id": 0,
+        "answer": "State"
+      },
+      {
+        "id": 1,
+        "answer": "Props"
+      },
+      {
+        "id": 2,
+        "answer": "Context"
+      },
+      {
+        "id": 3,
+        "answer": "Refs"
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is an advantage of using React.js?",
+    "options": [
+      {
+        "id": 0,
+        "answer": "It increases the performance of an application"
+      },
+      {
+        "id": 1,
+        "answer": "It is easy to learn and use"
+      },
+      {
+        "id": 2,
+        "answer": "It allows for code reuse"
+      },
+      {
+        "id": 3,
+        "answer": "All of the above"
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is true about the React.js componentWillUnmount() lifecycle method?",
+    "options": [
+      {
+        "id": 0,
+        "answer": "It is called before the component is removed from the DOM"
+      },
+      {
+        "id": 1,
+        "answer": "It is called after the component is mounted to the DOM"
+      },
+      {
+        "id": 2,
+        "answer": "It is called when the component is updated"
+      },
+      {
+        "id": 3,
+        "answer": "It is called when the component is initialized"
+      }
+    ],
+    "answer": 0
+  }
+]
